@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta&family=Yellowtail&display=swap');
+
+h1{
+  background-color:transparent;
+  font-family:'Yellowtail', cursive;
+  border-radius:12px;
+  margin:5px;
+  font-size:25px;
+  margin-top:20px;
+  border:5px double pink;
+  color:pink;
+  margin-bottom:14px;
+}
+
+
+table{
+  margin-left:35px;
+  margin-right:20px;
+  margin-bottom:-230px;
+  margin-top:20px;
+  color:pink;
+  border-color:pink;
+  
+  
+}
+p{
+  margin:5;
+  margin-top:250;
+font-family: 'Mukta', sans-serif;
+background-color:white;
+padding:5px;
+margin-bottom:5px;
+border-radius:12px;
+color:pink;
+border:5px double pink;
+
+}
+#g1{
+  
+  font-size:15;
+  margin-top:15;
+font-family: 'Yellowtail', cursive;
+
+color:pink;
+  
+}
+#g2{
+  
+  font-size:15;
+font-family: 'Yellowtail', cursive;
+margin-top:10px;
+color:pink;
+}
+ 
+ b{
+   font-family: 'Yellowtail' , cursive;
+   color:solid pink;
+ }
+textarea{
+  width:300;
+  outline: solid pink;
+  
+}
+button{
+  color:pink;
+  background:transparent;
+  border:2px double pink;
+  margin-top:5px;
+  
+  outline-color:aqua;
+ 
+}
+#pict{
+  display:inline-block;
+}
+
+.dua{
+  margin-left:60px;
+}
+.satu{
+  margin-left:40px;
+}
+
+  margin-top:;
+}
+b{
+  font-family: 'Yellowtail',cursive;
+ color:pink;
+ font-size:12px;
+}
