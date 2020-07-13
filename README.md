@@ -1,2 +1,0 @@
-# kenangan-kita
-kenangan kita
